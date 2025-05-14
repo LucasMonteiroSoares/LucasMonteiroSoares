@@ -1,6 +1,8 @@
+# Hello, World!!!
+
 ### **Sobre mim**
 - 🙋‍♂️ Olá, meu nome é Lucas e estou buscando estágio!
-- 🤔 Explorando cada vez mais novas tecnologias e desenvolvendo software.
+- 🤔 Explorando cada vez mais novas tecnologias e desenvolvendo software (back-end).
 - 🎓 Estudando Ciência da Computação na Universidade Presbiteriana Mackenzie 5/8.
 
 ### **Contato**
