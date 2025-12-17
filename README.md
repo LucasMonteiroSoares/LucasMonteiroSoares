@@ -1,11 +1,9 @@
 # Hello, World!!!
 
 ### **Sobre mim 🤔**
-<p align="center">
-Olá, me chamo Lucas Monteiro! Atualmente estou no **sexto semestre** de Ciência da Computação na Universidade Presbiteriana Mackenzie com previsão de formação em dez/2026. Desde cedo gosto muito de computadores, mas foi na Universidade, participando de iniciativas como hackhathons e residência de software que confirmei minha vocação como **desenvolvedor**! <br>
+<p align="center">Olá, me chamo Lucas Monteiro! Atualmente estou no **sexto semestre** de Ciência da Computação na Universidade Presbiteriana Mackenzie com previsão de formação em dez/2026. Desde cedo gosto muito de computadores, mas foi na Universidade, participando de iniciativas como hackhathons e residência de software que confirmei minha vocação como **desenvolvedor**! <br>
 
-Atualmente foco meus estudos complementares a universidade em **desenvolvimento back-end (principalmente Java e SpringBoot)**, porém, tenho a intenção de um dia me tornar **dev-fullstack**. Aqui no meu GitHub você encontrará **projetos pessoais** ou apenas alguns repositórios com **exercícios**, tento documentar tudo para conseguir observar minha evolução e como uma boa prática!
-</p>
+Atualmente foco meus estudos complementares a universidade em **desenvolvimento back-end (principalmente Java e SpringBoot)**, porém, tenho a intenção de um dia me tornar **dev-fullstack**. Aqui no meu GitHub você encontrará **projetos pessoais** ou apenas alguns repositórios com **exercícios**, tento documentar tudo para conseguir observar minha evolução e como uma boa prática!</p>
 
 ### **Contato**
 
